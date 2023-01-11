@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "ctscantext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StewartLynch/CTScanText",
+      "state" : {
+        "branch" : "master",
+        "revision" : "c1ae6d50cde32518954211fbeb18a324eabdd1ce"
+      }
+    },
+    {
+      "identity" : "flanimatedimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Flipboard/FLAnimatedImage",
+      "state" : {
+        "revision" : "d4f07b6f164d53c1212c3e54d6460738b1981e9f",
+        "version" : "1.0.17"
+      }
+    }
+  ],
+  "version" : 2
+}
