@@ -16,6 +16,9 @@ iPhone with A12 Bionic CPU and later running iOS 16.2
 Build and Run using Xcode 14 and iOS 16 devices with A12 Bionic CPU and later
 
 
+<img width="634" alt="Screenshot 1444-06-18 at 10 07 12 PM" src="https://user-images.githubusercontent.com/90031791/211896019-ea0d4eb8-6482-4e19-a8e9-e23701616e6d.png">
+
+
 
 ## Demo video 
 
