@@ -1,6 +1,8 @@
 
 # Egale 👁️
 
+
+
 ## 1. Challenge Statement🎯
 
 Make an inclusive solution that help a Vision disability.
@@ -13,30 +15,18 @@ Far-sightedness want to see close objects clearly because they have trouble read
 
 We/ve used vision kit swell as the camera and VoiceOver accessibility.
 
-## 1. Challenge Statement
 
-Make an inclusive solution that help a Vision disability.
+## Features ✨
 
-## 2. Solution Concept
+1-Scan any date.🗓️
+2-reads the dates outloud aswell as displaying it to the user.🎤
 
-Far-sightedness want to see close objects clearly because they have trouble reading close objects "especially".
-
-## 3. Technologies & Tools
-
-We/ve used vision kit swell as the camera and VoiceOver accessibility.
-
-## Features
-
-Scan any date.
-reads the dates outloud aswell as displaying it to the user.
-Scan any date.
-
-##Requierements
+## Requierements 🚧
 
 Xcode 14
 iPhone with A12 Bionic CPU and later running iOS 16.2.
 
-## Installation
+## Installation 🏷️
 
 Build and Run using Xcode 14 and iOS 16 devices with A12 Bionic CPU and later.
 
