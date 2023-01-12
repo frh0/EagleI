@@ -1,5 +1,6 @@
 # Eagle👁
-##  Eagle eyes an application where the user can scan any date and it will be visualised and read out loud to the user
+##  An App that helps people have presbyopia who want to reading the expiry date by point the camera at the expiration date of the product and tell them what the expiration date is.
+
 
 
 
