@@ -3,6 +3,13 @@
 
 
 
+# 1. Challenge Statement
+Make an inclusive solution that help a Vision disability
+# 2. Solution Concept
+Far-sightedness  want to see close objects clearly because they have trouble reading close objects "especially".
+# 3. Technologies & Tools
+We/ve used vision kit swell as the camera and VoiceOver accessibility 
+
 ## Features
 1. Scan any date.📆
 2. reads the dates outloud aswell as displaying it to the user.👤
