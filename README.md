@@ -5,7 +5,7 @@ An App that helps people have presbyopia who want to reading the expiry date by 
 
 ## 1. Challenge Statement🎯
 
-Make an inclusive solution that help a Vision disability.
+> Make an inclusive solution that help a Vision disability.
 
 ## 2. Solution Concept💡
 
