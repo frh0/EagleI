@@ -1,6 +1,6 @@
 
 # Egale 👁️
-
+An App that helps people have presbyopia who want to reading the expiry date by point the camera at the expiration date of the product and tell them what the expiration date is.
 
 
 ## 1. Challenge Statement🎯
