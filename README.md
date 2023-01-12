@@ -3,11 +3,11 @@
 
 
 
-# 1. Challenge Statement
+## 1. Challenge Statement
 Make an inclusive solution that help a Vision disability
-# 2. Solution Concept
+## 2. Solution Concept
 Far-sightedness  want to see close objects clearly because they have trouble reading close objects "especially".
-# 3. Technologies & Tools
+## 3. Technologies & Tools
 We/ve used vision kit swell as the camera and VoiceOver accessibility 
 
 ## Features
