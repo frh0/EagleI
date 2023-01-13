@@ -17,7 +17,7 @@ An App that helps people have presbyopia who want to reading the expiry date by 
 [press here for more about visionkit](https://developer.apple.com/documentation/visionkit)
 
 
-[accessibility](https://developer.apple.com/documentation/swiftui/view-accessibility "Accessibility modifiers
+[accessibility source](https://developer.apple.com/documentation/swiftui/view-accessibility "Accessibility modifiers
 ")
 
 
