@@ -14,7 +14,10 @@ An App that helps people have presbyopia who want to reading the expiry date by 
 ## 3. Technologies & Tools 🛠️
 
 > - We/ve used vision kit swell as the camera and VoiceOver accessibility.
-[I'm an inline-style link](https://www.google.com)
+[press here for more about visionkit](](https://developer.apple.com/documentation/visionkit)
+[accessibility][(https://developer.apple.com/documentation/swiftui/view-accessibility "Accessibility modifiers
+")]
+
 
 
 ## Features ✨
