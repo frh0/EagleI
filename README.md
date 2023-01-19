@@ -37,10 +37,10 @@ An App that helps people have presbyopia who want to reading the expiry date by 
 
 > - Build and Run using Xcode 14 and iOS 16 devices with A12 Bionic CPU and later.
 
-<img width="634" alt="Screenshot 1444-06-18 at 10 07 12 PM" src="https://user-images.githubusercontent.com/90031791/211896019-ea0d4eb8-6482-4e19-a8e9-e23701616e6d.png">
 
 ## challange summery ⚜️ 
-![H-F_Make Someone's Life Easier_ADATWQ_2022_2023 001](https://user-images.githubusercontent.com/90031791/212087478-fa54d17a-ae38-4cb2-8e10-ecc77c11c154.jpeg)
+
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/90031791/213435881-fffa4d81-51be-4108-ab40-ee8a16ad9929.png">
 
 
 
